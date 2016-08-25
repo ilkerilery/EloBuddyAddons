@@ -1,0 +1,9 @@
+F:\EB-ADDONS\DokuSilici\bin\Release\DokuSilici.exe.config
+F:\EB-ADDONS\DokuSilici\bin\Release\DokuSilici.exe
+F:\EB-ADDONS\DokuSilici\bin\Release\DokuSilici.pdb
+F:\EB-ADDONS\DokuSilici\bin\Release\EloBuddy.dll
+F:\EB-ADDONS\DokuSilici\bin\Release\SharpDX.Direct3D9.dll
+F:\EB-ADDONS\DokuSilici\bin\Release\SharpDX.dll
+F:\EB-ADDONS\DokuSilici\obj\Release\DokuSilici.csprojResolveAssemblyReference.cache
+F:\EB-ADDONS\DokuSilici\obj\Release\DokuSilici.exe
+F:\EB-ADDONS\DokuSilici\obj\Release\DokuSilici.pdb
